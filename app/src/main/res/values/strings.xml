@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RefreshIndicator</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+    </string-array>
+
+</resources>
